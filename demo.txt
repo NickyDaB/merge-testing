@@ -3,3 +3,7 @@ My name is Nick.
 My favorite number is 3.
 My favorite color is green.
 
+My name is Mariana
+My favorite color is blue.
+My favorite number is 6.
+
